@@ -101,16 +101,24 @@ expect me to do your project for you!
 
 
 Required Arduino Libraries:
+
 NOTE: (LM) means look in the Arduino Library Manager
 
 
 Hackscribble Ferro Library v1.5 www.hackscribble.com   FRAM support lib.
+
 Keypad Library v3.0 2015-09-18 http://playground.arduino.cc/Code/Keypad  (LM)
+
 Button library v1.0 http://www.michael.net.nz/ (LM)
+
 PushButton library v 2.0.0 (LM)
+
 Rotary encoder handler v1.1 https://github.com/dapicester/Rotary
+
 TimerOne v1.1.0 (LM)
+
 LiquidCrystal I2C  www.dfrobot.com
+
 LiquidCrystal   Built into Arduino IDE
 
 
